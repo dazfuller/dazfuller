@@ -4,9 +4,9 @@ I spend most of my time building data platforms in [Azure](https://azure.microso
 
 #### 🌱 I’m currently learning ...
 
-Electronics. I sucked at it back at school but really want to create some cool stuff with the [Raspberry Pi](https://www.raspberrypi.org/) and the [BBC Micro:bit](https://microbit.org/). So far and so good.
+Electronics. I sucked at it back at school but really want to create some cool stuff with the [Raspberry Pi](https://www.raspberrypi.org/) and the [BBC Micro:bit](https://microbit.org/), and pretty much anything else I can get my hands on. So far and so good.
 
-Also wanting to spend some time getting to grips with [Rust](https://www.rust-lang.org/). I spent years writing code in C++ and still love doing low level stuff and writing command line tools, so want to use something which gives the performance with safety.
+Currently learning, pretty much whatever I need to so that I can get the job done.
 
 #### 💬 Ask me about ...
 
