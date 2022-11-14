@@ -12,6 +12,15 @@ Currently learning, pretty much whatever I need to so that I can get the job don
 
 Anything Azure, Databricks, or related to any of the repos.
 
+#### 📫 How to reach me
+
+You can also find me on the following platforms:
+
+- [Mastodon @dazfuller@mstdn.social](https://mstdn.social/@dazfuller)
+- [Dev.to](https://dev.to/dazfuller)
+- [LinkedIn](https://www.linkedin.com/in/dazfuller/)
+- [Twitter](https://twitter.com/dazfuller)
+
 #### 😄 Pronouns: ...
 
 He/Him
