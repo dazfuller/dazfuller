@@ -19,7 +19,6 @@ You can also find me on the following platforms:
 - [Mastodon @dazfuller@mstdn.social](https://mstdn.social/@dazfuller)
 - [Dev.to](https://dev.to/dazfuller)
 - [LinkedIn](https://www.linkedin.com/in/dazfuller/)
-- [Twitter](https://twitter.com/dazfuller)
 
 #### 😄 Pronouns: ...
 
