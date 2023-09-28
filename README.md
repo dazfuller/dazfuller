@@ -16,7 +16,7 @@ Anything Azure, Databricks, or related to any of the repos.
 
 You can also find me on the following platforms:
 
-- [Mastodon @dazfuller@mstdn.social](https://mstdn.social/@dazfuller)
+- Follow me on <a rel="me" href="https://mstdn.social/@dazfuller">Mastodon</a>
 - [Dev.to](https://dev.to/dazfuller)
 - [LinkedIn](https://www.linkedin.com/in/dazfuller/)
 
