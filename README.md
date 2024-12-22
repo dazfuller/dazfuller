@@ -2,6 +2,8 @@
 
 I spend most of my time building data platforms in [Azure](https://azure.microsoft.com) and processing data with [Databricks](https://databricks.com/). When I'm not I seem to spend a lot of time <s>doing battle</s> working with Excel to get data out of it's slippery clutches!
 
+In an effort to become less dependent on services owned by Microsoft (or hosted in the U.S.) I'm more likely to be found either over on [Codeberg](https://codeberg.org/dazfuller) or on my local [Forgejo](https://forgejo.org) server.
+
 #### 🌱 I’m currently learning ...
 
 Electronics. I sucked at it back at school but really want to create some cool stuff with the [Raspberry Pi](https://www.raspberrypi.org/) and the [BBC Micro:bit](https://microbit.org/), and pretty much anything else I can get my hands on. So far and so good.
